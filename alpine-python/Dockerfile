@@ -6,3 +6,5 @@ RUN apk update && \
 RUN git config --global user.name "Rylan" && \
   git config --global user.email "rylans@gmail.com"
 
+WORKDIR /home/github
+RUN git clone https://github.com/rylans/docker-environments.git
