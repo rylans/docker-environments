@@ -3,7 +3,7 @@
 * Based off Ubuntu 17.10 (Artful)
 * Comes with:
   * perl
-  * python
+  * python and pip
   * ping
   * vim
   * curl
@@ -13,7 +13,9 @@
   * lynx
   * dnsutils (dig, nslookup, nsupdate)
   * net-tools (ifconfig, netstat, ipmaddr, arp, rarp)
+  * inetutils-traceroute (traceroute)
   * less
   * ssh
   * man
   * Lynis 2.5.7
+  * ivre
